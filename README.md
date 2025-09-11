@@ -3,7 +3,6 @@
 Alright, so here’s the deal — I rebuilt the *classic Snake game* in Python using Pygame, and honestly? It turned out pretty slick.  
 Smooth controls, restart screen, food never spawns inside the snake (’cause that would be super annoying), and you can totally mess with the code if you wanna make it faster, crazier, whatever.  
 
-![demo-gif](demo.gif) <!-- Replace with your actual GIF -->
 
 ---
 
@@ -20,7 +19,7 @@ Smooth controls, restart screen, food never spawns inside the snake (’cause th
 Clone it, install pygame, run it. That’s it.  
 
 ```bash
-git clone https://github.com/your-username/snakify.git
+git clone https://github.com/Rayaan2009/snakify.git
 cd snakify
 pip install pygame
 python snakify.py
