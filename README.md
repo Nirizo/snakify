@@ -2,6 +2,9 @@
 
 > Alright mate, here’s a classic with a fresh coat of paint - built in Python with Pygame. Smooth moves, no dodgy food spawns, and a restart screen that actually works. 👌
 
+<p align="center">
+<img src="demo.gif" alt="Gameplay demo" width="720" />
+</p>
 
 ---
 
